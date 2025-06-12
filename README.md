@@ -11,6 +11,11 @@ AI-powered Student Internship Recommendation System built with React, TypeScript
 - **Company Insights**: Detailed information about potential employers
 - **Progress Tracking**: Visual representation of profile completion
 - **Responsive Design**: Works seamlessly on all devices
+## UI preview
+
+![Screenshot 2025-06-12 170757](https://github.com/user-attachments/assets/8fb74e06-8735-4538-a599-823122a2070e)
+
+![Screenshot 2025-06-12 171750](https://github.com/user-attachments/assets/bc88b4e1-8d96-4a44-9956-eefe30f52f2d)
 
 ## 🛠️ Tech Stack
 
